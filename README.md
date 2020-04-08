@@ -2,11 +2,11 @@
 Hi.I am Fiona Liang.
 
 
-### My Hobbies
+## My Hobbies
 
-### My Learning Journey
+## My Learning Journey
 
-### My experiences
+## My experiences
 
 # Header 1
 ## Header 2
