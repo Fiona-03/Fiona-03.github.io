@@ -1,13 +1,12 @@
 ## Welcome to my Pages
-I am Fiona Liang.
+Hi.I am Fiona Liang.
 
 
-### Hobby
+### My Hobbies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My Learning Journey
 
-```markdown
-Syntax highlighted code block
+### My experiences
 
 # Header 1
 ## Header 2
